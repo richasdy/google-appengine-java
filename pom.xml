@@ -37,5 +37,6 @@
         </configuration>
       </plugin>
     </plugins>
+    <finalName>simple-webapp</finalName>
   </build>
 </project>
